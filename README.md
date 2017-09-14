@@ -14,8 +14,8 @@ But knowing the stuff will help you become better! :muscle:*
 
 ---- 
 
-### Introduction
-- :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA) 
+## Introduction
+  izmena
 
 ### Falsehoods
 - [Awesome Falsehoods](https://github.com/kdeldycke/awesome-falsehood)  
